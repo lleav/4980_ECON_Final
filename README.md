@@ -13,7 +13,7 @@ These programs utilize json, sklearn, pandas and pickle
 
 1. To begin first train the supervised model on the yelp dataset that includes stars to create the serialized.pickle file.
  `python3 supervised_training.py`
- (skip to step 3 if you already have the serialized.pickle file and do not wish to re-train the model)
+ (skip to step 3 if you already have the serialized.pickle file and do not wish to re-train the model, you can also download the serialized.pickle file directly here https://drive.google.com/file/d/16Xqb9MNvqCR2oXVwZnys8r91FQJgYwfl/view?usp=sharing)
 2. Wait for the random forest to finish running. 
 3. Now, after you have created the pickle file in step 1 run the run.py model to predict the stars for your dataset without stars.
 `python3 runme.py`
