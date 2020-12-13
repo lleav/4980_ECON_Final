@@ -18,8 +18,7 @@ These programs utilize json, sklearn, pandas and pickle
 3. Now, after you have created the pickle file in step 1 run the run.py model to predict the stars for your dataset without stars.
 `python3 runme.py`
 4. The program will output the star response in the terminal.
-## Limitations
-The serialized.pickle file is too large to upload here to GitHub (file exceeds GitHub's file size limit of 100.00 MB). You cannot skip to step 3 without this file and will need to first train the supervised model on the yelp dataset that includes stars. Start from step 1. 
+
  ## License
 Copyright 2020 Lee Leavitt
 
